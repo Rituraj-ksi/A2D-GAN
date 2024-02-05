@@ -1,0 +1,3 @@
+# A2D-GAN: Attention-guided generator with dual discriminator GAN for real-time video anomaly detection
+
+Code will be made available soon....
